@@ -15,7 +15,7 @@ In the spirit of open source software development, jQuery always encourages comm
 3. [Writing Code for jQuery Foundation Projects](https://contribute.jquery.org/code/)
 
 
-Environments in which to use jQuery
+Environments in which to use jQuery test
 --------------------------------------
 
 - [Browser support](https://jquery.com/browser-support/)
